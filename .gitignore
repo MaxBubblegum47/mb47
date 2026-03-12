@@ -5,6 +5,9 @@
 # Hugo build lock
 .hugo_build.lock
 
+# Claude Code
+.claude/
+
 # OS
 .DS_Store
 Thumbs.db
