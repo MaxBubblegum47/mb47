@@ -14,3 +14,20 @@ Thumbs.db
 
 # Node (if ever used)
 node_modules/
+
+# Environment variables (API keys, tokens — never commit these)
+.env
+.env.*
+
+# Local Hugo config overrides (personal settings not meant for production)
+hugo.local.toml
+config.local.toml
+
+# Editor temp files
+*.swp
+*.swo
+*.bak
+*~
+
+# Logs
+*.log
