@@ -1,52 +1,64 @@
 baseURL = "https://MaxBubblegum47.github.io/mb47/"
 languageCode = "en-us"
-title = "Lorenzo Stigliano | C++ Software Engineer"
+title = "Lorenzo Stigliano"
 author = "Lorenzo Stigliano"
 description = "Portfolio of a C++ engineer specializing in embedded systems, compiler development, and quantum computing"
-theme = "terminal"
-pagination.pagerSize = 10
-
-[markup.goldmark.renderer]
-unsafe = true
+theme = "trainsh"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+disablePathToLower = false
+removePathAccents = true
+preserveTaxonomyNames = false
 
 [params]
-contentTypeName = "posts"
-showMenuItems = 4
-fullWidthTheme = false
-centerTheme = false
-customCSS = ["css/xp-theme.css"]
+  mainSections = ["posts"]
+
+  [params.social]
+    github = "https://github.com/MaxBubblegum47"
+    email = "lorenzo.stigliano@example.com"
+    linkedin = "https://linkedin.com/in/lorenzo-stigliano"
 
 [languages]
-[languages.en]
-title = "Lorenzo Stigliano"
-subtitle = "C++ Engineer | Embedded Systems | Compiler Development | Quantum Computing"
-keywords = "C++, embedded systems, compiler, quantum computing, IoT"
-copyright = "© 2026 Lorenzo Stigliano"
+  [languages.en]
+    languageCode = "en-US"
+    languageName = "English"
+    weight = 1
+    title = "Lorenzo Stigliano | C++ Software Engineer"
 
-[languages.en.params.logo]
-logoText = "Lorenzo Stigliano"
-logoHomeLink = "/"
+    [[languages.en.menu.main]]
+      name = "Home"
+      pageRef = "/"
+      weight = 1
 
-[[languages.en.menu.main]]
-identifier = "home"
-name = "Home"
-url = "/"
-weight = 1
+    [[languages.en.menu.main]]
+      name = "Blog"
+      pageRef = "/posts"
+      weight = 2
 
-[[languages.en.menu.main]]
-identifier = "blog"
-name = "Blog"
-url = "/posts"
-weight = 2
+    [[languages.en.menu.main]]
+      name = "About"
+      pageRef = "/about"
+      weight = 3
 
-[[languages.en.menu.main]]
-identifier = "about"
-name = "About"
-url = "/about"
-weight = 3
+    [[languages.en.menu.main]]
+      name = "Contact"
+      pageRef = "/contact"
+      weight = 4
 
-[[languages.en.menu.main]]
-identifier = "contact"
-name = "Contact"
-url = "/contact"
-weight = 4
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+  [markup.goldmark.parser.attribute]
+    block = true
+
+  [markup.highlight]
+    lineNos = false
+    lineNumbersInTable = false
+    anchorLineNos = false
+    codeFences = true
+    lineNoStart = 1
+    noClasses = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
