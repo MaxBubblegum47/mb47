@@ -1,4 +1,51 @@
 baseURL = "https://MaxBubblegum47.github.io/mb47/"
 languageCode = "en-us"
-title = "My Hugo Site"
+title = "Lorenzo Stigliano | C++ Software Engineer"
+author = "Lorenzo Stigliano"
+description = "Portfolio of a C++ engineer specializing in embedded systems, compiler development, and quantum computing"
 theme = "terminal"
+pagination.pagerSize = 10
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+contentTypeName = "posts"
+showMenuItems = 4
+fullWidthTheme = false
+centerTheme = false
+
+[languages]
+[languages.en]
+title = "Lorenzo Stigliano"
+subtitle = "C++ Engineer | Embedded Systems | Compiler Development | Quantum Computing"
+keywords = "C++, embedded systems, compiler, quantum computing, IoT"
+copyright = "© 2026 Lorenzo Stigliano"
+
+[languages.en.params.logo]
+logoText = "Lorenzo Stigliano"
+logoHomeLink = "/"
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[languages.en.menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/posts"
+weight = 2
+
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 3
+
+[[languages.en.menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact"
+weight = 4
