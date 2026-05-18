@@ -1,7 +1,7 @@
 +++
 title = "PyFind: Privacy-Preserving Device Tracking via Cryptography"
 description = "Implementing elliptic curve cryptography for privacy-preserving location tracking"
-date = 2026-03-15
+date = 2023-08-29
 tags = ["Cryptography", "Privacy", "Python"]
 categories = ["projects"]
 +++

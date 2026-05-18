@@ -1,7 +1,7 @@
 +++
 title = "Quantum Compiler Development: STAQ Backend Optimization"
 description = "Implementing IBM quantum computer backend within STAQ compiler for hardware-specific circuit optimization"
-date = 2026-03-15
+date = 2025-03-20
 tags = ["Quantum Computing", "Compilers", "Optimization"]
 categories = ["projects"]
 +++

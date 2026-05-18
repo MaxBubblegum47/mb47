@@ -14,35 +14,35 @@ With experience spanning medical device firmware, CNC systems, LLVM compiler inf
 
 ## Featured Projects
 
-### 🌍 FreshAirIoT
-IoT air quality monitoring system using ESP32/8266 microcontrollers with MQTT communication and Telegram integration.
+### 📊 Kamin *(2025)*
+Oscilloscope data visualization tool with PyQt6 GUI and CLI — time-domain plots, FFT spectrum, phase diagrams, and CNC tool path visualization.
 
-[Read more →](/posts/freshairiot)
+[View on GitHub →](https://github.com/MaxBubblegum47/Kamin)
 
-### 🔧 LLVM MicroBlaze Backend
-Complete MicroBlaze backend for LLVM compiler infrastructure with instruction selection, register allocation, and code emission.
-
-[Read more →](/posts/llvm-microblaze-backend)
-
-### ⚛️ Quantum Compiler Development
+### ⚛️ Quantum Compiler Development *(2025)*
 IBM quantum computer backend within STAQ compiler framework for hardware-specific optimization on NISQ devices.
 
 [Read more →](/posts/quantum-compiler)
 
-### 🔐 PyFind: Privacy-Preserving Cryptography
-Elliptic curve cryptography implementation for privacy-preserving device tracking (arXiv:2103.02282).
+### 🌍 FreshAirIoT *(2024)*
+IoT air quality monitoring system using ESP32/8266 microcontrollers with MQTT communication and Telegram integration.
 
-[Read more →](/posts/pyfind-cryptography)
+[Read more →](/posts/freshairiot)
 
-### 🎬 VictoriaCinema Bot
+### 🎬 VictoriaCinema Bot *(2024)*
 Telegram bot for cinema schedules featuring BeautifulSoup4 HTML parsing and intelligent error handling.
 
 [Read more →](/posts/victoria-cinema-bot)
 
-### 📊 Kamin
-Oscilloscope data visualization tool with PyQt6 GUI and CLI — time-domain plots, FFT spectrum, phase diagrams, and CNC tool path visualization.
+### 🔐 PyFind: Privacy-Preserving Cryptography *(2023)*
+Elliptic curve cryptography implementation for privacy-preserving device tracking (arXiv:2103.02282).
 
-[View on GitHub →](https://github.com/MaxBubblegum47/Kamin)
+[Read more →](/posts/pyfind-cryptography)
+
+### 🔧 LLVM MicroBlaze Backend *(2022)*
+Complete MicroBlaze backend for LLVM compiler infrastructure with instruction selection, register allocation, and code emission.
+
+[Read more →](/posts/llvm-microblaze-backend)
 
 ---
 

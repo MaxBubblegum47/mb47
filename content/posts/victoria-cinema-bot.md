@@ -1,7 +1,7 @@
 +++
 title = "VictoriaCinema Bot: Telegram Cinema Schedule Automation"
 description = "Building a Telegram bot for scraping and delivering cinema schedules with intelligent error handling"
-date = 2026-03-15
+date = 2024-04-11
 tags = ["Web Scraping", "Automation", "Telegram Bot"]
 categories = ["projects"]
 +++

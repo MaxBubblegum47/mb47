@@ -1,7 +1,7 @@
 +++
 title = "LLVM MicroBlaze Backend: Compiler Infrastructure Development"
 description = "Implementing a complete LLVM backend for MicroBlaze architecture with instruction selection and code generation"
-date = 2026-03-15
+date = 2022-02-25
 tags = ["Compilers", "LLVM", "Backend Development"]
 categories = ["projects"]
 +++

@@ -1,7 +1,7 @@
 +++
 title = "FreshAirIoT: ESP32 Air Quality Monitoring"
 description = "Building an IoT air quality monitoring system with environmental sensors and real-time dashboards"
-date = 2026-03-15
+date = 2024-06-26
 tags = ["IoT", "Embedded Systems", "ESP32"]
 categories = ["projects"]
 +++
