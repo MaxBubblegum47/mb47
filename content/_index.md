@@ -6,7 +6,7 @@ date = 2026-03-12
 
 # Welcome
 
-I'm Lorenzo, a C++ software engineer at **MBDA**, working on embedded systems and defense technology. I'm also finishing my Master's in CS at Unimore, with research in compiler development, quantum computing, and cryptography.
+I'm Lorenzo, a C++ software engineer at **MBDA** (via Brain Technologies), working on real-time HMI/CNC software, embedded Linux, and cross-compilation pipelines. I hold a Master's in CS from Unimore, graduated **110/110 cum laude**.
 
 With experience spanning medical device firmware, CNC systems, LLVM compiler infrastructure, and quantum hardware backends, I focus on building efficient, reliable software that solves complex technical challenges.
 
@@ -38,6 +38,11 @@ Elliptic curve cryptography implementation for privacy-preserving device trackin
 Telegram bot for cinema schedules featuring BeautifulSoup4 HTML parsing and intelligent error handling.
 
 [Read more →](/posts/victoria-cinema-bot)
+
+### 📊 Kamin
+Oscilloscope data visualization tool with PyQt6 GUI and CLI — time-domain plots, FFT spectrum, phase diagrams, and CNC tool path visualization.
+
+[View on GitHub →](https://github.com/MaxBubblegum47/Kamin)
 
 ---
 
