@@ -10,6 +10,9 @@ I'm a C++ software engineer with deep expertise in embedded systems, compiler de
 
 ## Professional Experience
 
+### **MBDA** — C++ Software Engineer *(current)*
+Embedded systems and software development in the defense and brain technologies domain, focused on real-time C++ and mission-critical reliability.
+
 ### **ESAutomotion** — Embedded Systems Engineer
 Medical device firmware development and CNC systems integration with a focus on real-time systems and hardware abstraction.
 
@@ -24,7 +27,7 @@ Mentoring students in systems programming, compiler design, and quantum computin
 
 ## Education
 
-**Master's Degree** — Computer Science with focus on Compiler Design and Quantum Computing
+**Master's Degree** — Computer Science, Unimore — Compiler Design & Quantum Computing *(in progress)*
 
 **Bachelor's Degree** — Computer Science with emphasis on Embedded Systems
 

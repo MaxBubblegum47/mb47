@@ -1,12 +1,12 @@
 +++
 title = "Lorenzo Stigliano"
-description = "C++ Software Engineer | Portfolio"
+description = "C++ Software Engineer | Embedded Systems | Defense | MBDA"
 date = 2026-03-12
 +++
 
 # Welcome
 
-I'm Lorenzo, a C++ engineer passionate about **embedded systems**, **compiler development**, **quantum computing**, and **cryptography**.
+I'm Lorenzo, a C++ software engineer at **MBDA**, working on embedded systems and defense technology. I'm also finishing my Master's in CS at Unimore, with research in compiler development, quantum computing, and cryptography.
 
 With experience spanning medical device firmware, CNC systems, LLVM compiler infrastructure, and quantum hardware backends, I focus on building efficient, reliable software that solves complex technical challenges.
 

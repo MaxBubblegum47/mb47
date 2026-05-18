@@ -2,7 +2,7 @@ baseURL = "https://MaxBubblegum47.github.io/mb47/"
 languageCode = "en-us"
 title = "Lorenzo Stigliano"
 author = "Lorenzo Stigliano"
-description = "Portfolio of a C++ engineer specializing in embedded systems, compiler development, and quantum computing"
+description = "Portfolio of a C++ software engineer at MBDA, specializing in embedded systems, compiler development, and quantum computing"
 theme = "trainsh"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -15,8 +15,8 @@ preserveTaxonomyNames = false
 
   [params.social]
     github = "https://github.com/MaxBubblegum47"
-    email = "lorenzo.stigliano@example.com"
-    linkedin = "https://linkedin.com/in/lorenzo-stigliano"
+    email = "lorenzostigliano@gmail.com"
+    linkedin = "https://linkedin.com/in/lorenzo-stigliano-603aba153"
 
 [languages]
   [languages.en]

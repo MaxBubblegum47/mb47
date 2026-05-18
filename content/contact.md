@@ -10,7 +10,7 @@ I'm always interested in discussing embedded systems, compiler design, quantum c
 
 ## Contact Information
 
-**Email:** [lorenzo.stigliano@example.com](mailto:lorenzo.stigliano@example.com)
+**Email:** [lorenzostigliano@gmail.com](mailto:lorenzostigliano@gmail.com)
 
 **Phone:** Available upon request
 
@@ -19,7 +19,7 @@ I'm always interested in discussing embedded systems, compiler design, quantum c
 ## Online Presence
 
 - **GitHub:** [MaxBubblegum47](https://github.com/MaxBubblegum47)
-- **LinkedIn:** [Lorenzo Stigliano](https://linkedin.com/in/lorenzo-stigliano)
+- **LinkedIn:** [Lorenzo Stigliano](https://linkedin.com/in/lorenzo-stigliano-603aba153)
 - **arXiv:** [Research Publications](https://arxiv.org/search/?query=stigliano)
 
 ## What to reach me about
