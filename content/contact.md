@@ -20,7 +20,6 @@ I'm always interested in discussing embedded systems, compiler design, quantum c
 
 - **GitHub:** [MaxBubblegum47](https://github.com/MaxBubblegum47)
 - **LinkedIn:** [Lorenzo Stigliano](https://linkedin.com/in/lorenzo-stigliano-603aba153)
-- **arXiv:** [Research Publications](https://arxiv.org/search/?query=stigliano)
 
 ## What to reach me about
 
